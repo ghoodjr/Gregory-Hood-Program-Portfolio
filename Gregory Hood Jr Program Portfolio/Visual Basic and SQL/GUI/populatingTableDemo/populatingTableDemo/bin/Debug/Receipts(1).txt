@@ -1,0 +1,66 @@
+Store Name: Giants
+Purchase Date: 2009-10-11
+milk: 3.25
+cookie: 5.20
+bread: 1.50
+apples: 2.75
+pork loin chops: 4.50
+Dole veggies: 3.45
+Roast: 7.56
+Canada dry soda: 10.00
+Turkey hill ice cream: 4.56
+Dannon yogurt: 4.34 
+
+Store Name: BestBuy
+Purchase Date: 2009-10-20
+Canon digital camera: 449.99
+Canon camera case: 29.99
+Canon camera lenses: 99.99
+SanDisk 4GB Memory Card: 39.99
+Dell lap top Computer: 549.99
+USB cable: 14.99
+Canon photo printer: 249.99
+Canon photo paper: 9.99
+Photo shop software: 99.99
+Canon tripod : 49.99
+
+Store Name: Walmart
+Purchase Date: 2009-08-16
+Dog Treats: 2.58
+Water Hose: 8.97
+Milk: 3.25
+Conditioner: 2.96
+Shampoo: 2.96
+Cat Treats: 1.73
+Febreze: 5.00
+Windex: 1.97
+Oreo: 2.78
+Wonder Mop: 7.97
+
+Store Name: Tawes College Center
+Purchase Date: 2009-10-09
+Soda: 1.50
+UtzChip: 1.50
+JanSport: 45.00
+Pencil: 6.75
+BigEraser: 1.00
+TI 84: 150.00
+Book: 27.50
+Folder: 0.50
+Stapler: 1.50
+Staples: 0.75
+
+Store Name: Target
+Purchase Date: 2009-10-25
+mp 2 pc milk: 1.99
+15 ct envelope: 2.94
+5pk post it: 5.99
+Hershey minis: 2.99
+mix miniature: 3.19
+Clorox: 4.64
+twin Renu: 13.49
+deer park pipo: 2.04
+1in binder: 2.99
+index divide: 2.50
+oust air: 12.99
+basic stick: 4.99
